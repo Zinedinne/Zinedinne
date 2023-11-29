@@ -4,8 +4,8 @@ Bienvenido a mi perfil de GitHub. Soy un apasionado desarrollador con habilidade
 
 ## 🚀 Habilidades y Tecnologías
 
-- **Lenguajes de Programación:** JavaScript, Python, HTML, CSS, Java
-- **Frameworks y Bibliotecas:** React Native, Node.js, FastAPI
+- **Lenguajes de Programación:** JavaScript, Python, HTML, CSS, Java, C#
+- **Frameworks y Bibliotecas:** React Native, Node.js, FastAPI, Godot
 - **Bases de Datos:**  MySQL
 - **Herramientas de Desarrollo:** Git, Visaul Studio Code, InteliJ
 
