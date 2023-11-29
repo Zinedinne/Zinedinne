@@ -1,20 +1,23 @@
-### Hi there 👋
+# ¡Hola, soy Zinedinne! 👋
 
-[![Zinedinne´s github stats] (https://github-readme-stats.vercel.app/api?username=Zinedinne)] (https://github.com/anuraghazra/github-readme-stats)
+Bienvenido a mi perfil de GitHub. Soy un apasionado desarrollador con habilidades en diversas tecnologías y un amor por la creación de soluciones innovadoras. Aquí encontrarás una visión general de mis habilidades y proyectos.
 
-<a href="https://sourcerer.io/Zinedine">
-</a>
-<!--
-**Zinedinne/Zinedinne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Habilidades y Tecnologías
 
-Here are some ideas to get you started:
+- **Lenguajes de Programación:** JavaScript, Python, HTML, CSS, Java
+- **Frameworks y Bibliotecas:** React Native, Node.js, FastAPI
+- **Bases de Datos:**  MySQL
+- **Herramientas de Desarrollo:** Git, Visaul Studio Code, InteliJ
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Estadísticas GitHub
+
+![Estadísticas GitHub](https://github-readme-stats.vercel.app/api?username=Zinedinne)
+
+¡Echa un vistazo a mis estadísticas en tiempo real! [Ver más](https://github-readme-stats.vercel.app/api?username=Zinedinne)
+
+## 🌱 ¡Aprendiendo Siempre!
+
+Estoy constantemente explorando nuevas tecnologías y enriqueciendo mis habilidades. ¡Vamos a aprender y crecer juntos!
+
+---
+¡Hagamos cosas increíbles juntos! 🚀
